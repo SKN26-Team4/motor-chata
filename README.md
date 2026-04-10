@@ -15,9 +15,8 @@
     <td>
         <b>- GitHub 총괄 관리
         <br>- ERD 작성
-        <br>- Figma UI 디자인
-        <br>- ERD 작성
-        <br>- 로직 설계 </b></td>
+        <br>- 로직 설계
+        <br>- Figma UI 디자인 </b></td>
     <td>
         <b>- 발표
         <br>- 대본 작성
